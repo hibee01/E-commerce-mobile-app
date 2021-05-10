@@ -169,7 +169,7 @@ li {
 .persona {
     box-shadow: 0 0 5px rgb(202, 202, 202);
     border-radius: 8px;
-    flex-basis: 48%;
+    flex-basis: 32%;
     /* background-color: chartreuse; */
 }
 
@@ -292,7 +292,7 @@ li {
     text-align: center;
 }
 .tip-img {
-    width: 60%;
+    width: 80%;
 }
 
 
