@@ -255,7 +255,7 @@
         width: 80%;
     }
     .tip-img {
-        width: 80%;
+        width: 100%;
     }
 
     h2 {
@@ -350,6 +350,18 @@
     }
     .applewatch {
         font-size: 1rem;
+    }
+
+    .visual-img-cont{
+        display: none;
+    }
+
+    .visual-img-cont-mobile {
+        display: block;
+    }
+
+    .visual-img-mobile {
+        width: 100%;
     }
     
     

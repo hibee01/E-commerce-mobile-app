@@ -266,6 +266,9 @@ li {
     margin: 0 auto;
     text-align: center;
 }
+.visual-img-cont-mobile {
+    display: none;
+}
 .visual-img {
     width: 80%;
     
